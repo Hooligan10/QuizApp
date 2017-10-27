@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ques: MyString
+  optA: MyString
+  optB: MyString
+  optC: MyString
+  optD: MyString
+  subgenre: one
+
+two:
+  ques: MyString
+  optA: MyString
+  optB: MyString
+  optC: MyString
+  optD: MyString
+  subgenre: two
